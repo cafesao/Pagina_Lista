@@ -1,0 +1,29 @@
+body{
+    display: block;
+    background-color: rgb(208, 89, 255);
+}
+div#pagina{
+    background-color: rgb(121, 91, 255);
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 600px;
+    width: 400px;
+    height: auto;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.493);
+    border-radius: 15px;
+}
+button{
+    position: relative;
+    bottom: 0;
+}
+a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
